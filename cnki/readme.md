@@ -1,1 +1,2 @@
 > this folder is used to store literature from [中国知网](http://www.cnki.net/)
+[中国知网](http://kreader.cnki.net/Kreader/CatalogViewPage.aspx?dbCode=cdmd&filename=1017059105.nh&tablename=CMFD201702&compose=&first=1&uid=)
